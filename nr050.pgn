@@ -1,0 +1,23 @@
+[Event "Tarrasch, Das Schachspiel"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "Nr. 50"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4k3/3r4/4K3/4B3/8/8/8/2R5 w - - 0 1"]
+[Link "https://www.chess.com/analysis/collection/tarrasch-WCR4jbN6/4hssCoMaoY/analysis"]
+
+1. Rc8+ Rd8 2. Rc7 Rd2 (2... Kf8 3. Rh7 Re8+ 4. Kf6 Kg8 5. Rg7+ Kh8 (5... Kf8 6.
+Bd6+) 6. Rg1 Kh7 7. Kf7) 3. Rb7 Rd1 (3... Rd3 4. Rg7 Rf3 5. Re7+ Kf8 6. Rc7 Kg8
+7. Rg7+ Kf8 8. Rg4 Ke8 (8... Re3 9. Rh4 Rg3 (9... Kg8 10. Rh8#) 10. Bxg3) 9. Bf4
+Kf8 10. Bd6+ (10. Bh6+ Ke8 11. Rg8+ Rf8 12. Rxf8#) 10... Ke8 11. Rg8+ Rf8 12.
+Rxf8#) 4. Rg7 Rf1 (4... Kf8 5. Rh7 Rg1 6. Ra7 Kg8 (6... Rg6+ 7. Bf6 Kg8 8. Ra8+
+Kh7 9. Rh8#) 7. Ra8+ Kh7 8. Rh8+ Kg6 9. Rg8+ Kh7 10. Rxg1) 5. Bg3 Kf8 (5... Rf3
+6. Bd6 Re3+ 7. Be5 Rf3 (7... Kf8 8. Rh7) 8. Re7+ Kf8 (8... Kd8 9. Rb7) 9. Rc7
+Kg8 10. Rg7+ Kf8 (10... Kh8 11. Rg3+ Kh7 12. Rxf3) 11. Rg4 Ke8 (11... Re3 12.
+Rh4) 12. Bf4 Kf8 13. Bd6+ Ke8 14. Rg8+ Rf8 15. Rxf8#) (5... Kd8 6. Rg8+ Rf8 7.
+Rxf8#) 6. Rg4 Ke8 7. Rc4 Rd1 (7... Kd8 8. Bh4+ Ke8 9. Rc8#) (7... Kf8 8. Be5 Kg8
+9. Rh4 Kf8 10. Rh8#) 8. Bh4 Kf8 9. Bf6 (9. Rg4 Rd2 10. Be7+ Ke8 11. Rg8#) 9...
+Re1+ 10. Be5 Kg8 11. Rh4 Kf8 12. Rh8# 1-0
