@@ -29,3 +29,4 @@
 * eventuell einen Zug machen
 * eventuell "Swith Sides" drücken
 * spielen
+* 
