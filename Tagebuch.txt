@@ -1,1 +1,37 @@
+15.9.2026
+30+20 • Gewertet • Klassisch
+08:00
+YarysiaPrykhid (1746) +5 Amadeus9876 (1678) −16
+1:0
+https://lichess.org/KDFUrkNcnzut
+
+aufgegeben nach 6 Zügen, da ich geglaubt habe, dass isch eine Figur verloren habe, war aber nur ein Bauer
+rnbqkbnr/pppp1ppp/8/8/2B1P3/2p5/PP3PPP/RNBQK1NR b KQkq - 1 4
+
+  +-----------------+
+1 | R N . K Q B N R |
+2 | P P P . . . P P |
+3 | . . . . . p . . |
+4 | . . . P . B . . |
+5 | . . . . . . . . |
+6 | . . . . . . . . |
+7 | p p p . p p p p |
+8 | r n b k q b n r |
+  +-----------------+
+    h g f e d c b a
+
+4. ... ?
+Schwarz am Zug
+
+Ich habe "4. ... Lc5" gespielt, danach war das weiße Läuferopfer auf f7  möglich
+  4. ...    Lc5
+  5. Lf7:+  Kf7:
+  6. Dd5+ 
+  7. Dd5:
+Ich habe nun geblaubt, einen Läufer verloren zu haben, und nicht nur einen Bauern, und habe aufgegeben.
+Ärgerlich. Auch den Bauern zu verlieren ist schon ärgerlich.
+
+1. Bei der Eröffnung die Gegnerzüge überlegen
+2. vor dem aufgeben schon noch eine genaue Bestandsaufnahme machen
+
 
