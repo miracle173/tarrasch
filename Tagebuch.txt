@@ -35,3 +35,63 @@ Ich habe nun geblaubt, einen Läufer verloren zu haben, und nicht nur einen Baue
 2. vor dem aufgeben schon noch eine genaue Bestandsaufnahme machen
 
 
+###########################################################
+"2026.09.16
+
+[Event "rated classical game"]
+[Site "https://lichess.org/2plDeeUa"]
+[Date "2026.09.16"]
+[Round "-"]
+[White "Supergrobi65"]
+[Black "Amadeus9876"]
+[Result "0-1"]
+[GameId "2plDeeUa"]
+[UTCDate "2026.09.16"]
+[UTCTime "11:11:02"]
+[WhiteElo "1698"]
+[BlackElo "1697"]
+
+
+3r1rk1/2q2ppp/p3pn2/2p5/N1Pp4/1P1RP3/P1Q2PPP/4R1K1 b - - 3 19
+
+  +-----------------+
+1 | . K . R . . . . |
+2 | P P P . . Q . P |
+3 | . . . P R . P . |
+4 | . . . . p P . N |
+5 | . . . . . p . . |
+6 | . . n p . . . p |
+7 | p p p . . q . . |
+8 | . k r . r . . . |
+  +-----------------+
+    h g f e d c b a
+
+Schwarz am Zug
+19. ... ?
+
+Weiß hat soeben
+  19. Rd1-d3?? 
+gespielt, SF: 0.0>>-3.6. Ich habe schon die längste Zeit auf Ng4 geschaut, mit Angriff von Dame und Springer auf h2. Jetzt wäre der richtige Zeitpunkt gewesen. Ich habe wieder nicht weit genug gerechnet.
+19. ... Ng4!
+1)
+20. f4 Nxe3 
+21. Qf2 Rfe8 
+22. Qf3 h5 
+23. Qxh5 e5 
+24. Rd2 g6 
+25. Qg5
+
+2)
+20. g3  Ne5
+21. e4  Nxd3
+22. Qd3
+
+39
+20. h3 Qh2+
+21. Kf1 Ne5
+22. Nxc5 Nxd3
+23. Qxd3 dxe3
+24. Qxe3 Qh1+
+25. Ke2 Qxg2
+
+Wieder nicht weit genug gerechnet, allerding schon komplex
