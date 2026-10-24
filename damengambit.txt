@@ -1,0 +1,25 @@
+1.  d4   d5
+2.  c4   e6
+  Problem, dass Damenläufer eingesperrt wird
+  andere Möglichkeiten. 
+    c6 (slawisch): Nachteil: Königsläufer noch nicht frei
+    Sg8-f6 (Tschigorin): eher problematisch, da kein schwarzer Bauer im Zentrum nach dem Abtausch bleibt.
+  
+3.  Sc3
+  übt Druck auf Zentrum, insbesondere d5, aus
+3.  ...  Sf6    
+
+Zugumstellungen:
+1. c4 Sf6  2. d4 e6  3. Sc3 d5
+1. d4 Sf6  2. c4 e6  3. Sc3 d5
+  es ist aber auch 3. ... Lb4 möglich (Nimzo-Indisch)
+  
+
+4. cxd5   exd5
+5. Lg5  
+  Fesselt den Springer und übt so Duck auf Zentrum aus
+5.  ...   Le7
+  entfesselt den Springer
+6. e3
+  Öffnet Diagonale für Lf1
+  
