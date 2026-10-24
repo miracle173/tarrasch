@@ -13,6 +13,14 @@ Zugumstellungen:
 1. c4 Sf6  2. d4 e6  3. Sc3 d5
 1. d4 Sf6  2. c4 e6  3. Sc3 d5
   es ist aber auch 3. ... Lb4 möglich (Nimzo-Indisch)
+Andere Möglichkeiten:
+3. ... c6 (Triangel-Verteidigung), 3 ... c5 (Tarrasch-Verteidigung), 
+  3. ... Le7
+    Vorteil: Verhindert Fesselung des Springers
+    Nachteil: Käufer wird zu Früh festgelegt,. 
+    Beispiel:
+      Weiß verzichtet auf Springerfesselung
+      4. Lf4 und Le7 würde besser auf d5 stehen
   
 
 4. cxd5   exd5
