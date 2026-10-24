@@ -21,6 +21,8 @@ Andere Möglichkeiten:
     Beispiel:
       Weiß verzichtet auf Springerfesselung
       4. Lf4 und Le7 würde besser auf d5 stehen
+      Aber 4. f4 bringt nichts. 4. ... dxe4, Sxe4 uns Schwarz bringt die Figuren schnell ´raus.
+
   
 
 4. cxd5   exd5
