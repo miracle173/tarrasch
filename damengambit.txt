@@ -3,7 +3,9 @@
   Problem, dass Damenläufer eingesperrt wird
   andere Möglichkeiten. 
     c6 (slawisch): Nachteil: Königsläufer noch nicht frei
-    Sg8-f6 (Tschigorin): eher problematisch, da kein schwarzer Bauer im Zentrum nach dem Abtausch bleibt.
+    Sc6 (Tschigorin)
+    Sf6: eher problematisch, da kein schwarzer Bauer im Zentrum nach dem Abtausch bleibt.
+    Lf5
   
 3.  Sc3
   übt Druck auf Zentrum, insbesondere d5, aus
