@@ -27,11 +27,14 @@ Andere Möglichkeiten:
 
   
 
-4. cxd5   exd5
+4. cxd5  exd5
+  4. ...  Sxd5
+  5. e4 (~~~)
 5. Lg5  
   Fesselt den Springer und übt so Duck auf Zentrum aus
 5.  ...   Le7
   entfesselt den Springer
+  5. ... h6 (~~~)
 6. e3
   Öffnet Diagonale für Lf1
   
