@@ -38,9 +38,28 @@ Andere Möglichkeiten:
 5.  ...   Le7
   entfesselt den Springer
   5. ... h6 (~~~)
+  ---
+  5. ... c6
+  6. e3  Lf5
+  7. Db3  Db6
+  8. Lxf6  gxf6
+  ---
+    6. Sf3  Lf5
+    7. Db3  Db6
+    8. Lxf6  gxf6
+aber nun ist 8. Lxf6 möglich und Schwarz erhält einen Doppelbauer
+Anmerkung: 7- ... b6 statt 7. ... Db6 eher nicht, keine unmittelbare Bedrohung aber Schwächung des Bauern c6 und ganz allgemein der weißen Felder dort.
+    6. e3  Lf5
+    7. Df3  Lg6
+    8. Lxf6  Dxf6
+    9. Dxg6  gxf6
+und wieder hat Schwarz einen Doppelbauer.
+
+Anmerkung: wenn schwarz den Damenläufer von c8 wegzieht, kann man immer Db3 überlegen
+
 6. e3
   Öffnet Diagonale für Lf1
-  
+  [1, 0:31:00]
 [1]: 
 Unsere kleine Schachschule | Teil 18: Abgelehntes Damengambit
 JanistanTV
