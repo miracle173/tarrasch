@@ -9,6 +9,7 @@
   
 3.  Sc3
   übt Druck auf Zentrum, insbesondere d5, aus
+  Anmerkung: Weiß wird im 3. Zug noch nicht abtauschen, da es so dem schwarzen Damenläufer das Leben erleichtert.[1, 0:19:00}
 3.  ...  Sf6    
 
 Zugumstellungen:
@@ -28,8 +29,10 @@ Andere Möglichkeiten:
   
 
 4. cxd5  exd5
-  4. ...  Sxd5
-  5. e4 (~~~)
+  4. ...  Sxd5 (Semi-Tarrasch)
+  5. e4 Sxc6
+  6. bxc6
+
 5. Lg5  
   Fesselt den Springer und übt so Duck auf Zentrum aus
 5.  ...   Le7
@@ -38,3 +41,7 @@ Andere Möglichkeiten:
 6. e3
   Öffnet Diagonale für Lf1
   
+[1]: 
+Unsere kleine Schachschule | Teil 18: Abgelehntes Damengambit
+JanistanTV
+https://www.youtube.com/watch?v=C5D8h2DGsHk
